@@ -1,4 +1,4 @@
 # CapturaForestal
 
 
-[App de Google Earth](https://link-url-here.org](https://omarmagmed.users.earthengine.app/view/capturaforestar)
+Link aplicacion de Google Earth App : https://link-url-here.org](https://omarmagmed.users.earthengine.app/view/capturaforestar
